@@ -20,3 +20,8 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+O projeto foca na aplicação dos princípios de Programação Orientada a Objetos (POO) por meio de conceitos como Herança, Classes Abstratas e Encapsulamento. Na classe Smartphone, foram definidos atributos essenciais, como o Modelo e o IMEI. Foi implementada uma validação simples do padrão do IMEI, usando Regex, garantindo sua conformidade. Além disso, foi criado um método privado que assegura a verificação da existência e preenchimento do nome do aplicativo a ser instalado, evitando valores nulos ou vazios.
+
+## Referências
+[Link utilizado para validação regex do IMEI do Smartphone](https://www.gov.br/anatel/pt-br/assuntos/celular-legal/imei#:~:text=Cada%20celular%20tem%20um%20número,-00-000000-0.)
